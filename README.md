@@ -1,4 +1,4 @@
-### Hi, I'm Lourdes Castillo 👋 👩‍💻
+# Hi, I'm Lourdes Castillo 👋 👩‍💻
 
 Highly motivated Quality Assurance Engineer with 5+ years of experience. Concerned about delivering fluent communication and speak sincerely and confidently with the Software Delivery Team, the most important thing is generating value for the business preventing production issues, and with the best value and quality for the product. Community volunteer and Mozilla Representative in Chile <a href="https://community.mozilla.org/people/lourcastillo/">Community Mozilla Portal 🌟</a>
 
@@ -8,4 +8,4 @@ Highly motivated Quality Assurance Engineer with 5+ years of experience. Concern
 - Instagram <a href="https://www.instagram.com/lourcastillo"> lourcastillo</a> 🎀
 - Sharing some mozillians news <a href="https://discourse.mozilla.org/u/lourcastillo/summary">Discourse</a> 🔭
 
-![lourcastillo's github stats](https://github-readme-stats.vercel.app/api?username=lourcastillo&show_icons=true&hide=[%22issues%22])
+![lourcastillo's github stats](https://github-readme-stats.vercel.app/api?username=lour-source&show_icons=true&hide=[%22issues%22])
