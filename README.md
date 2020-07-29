@@ -9,3 +9,4 @@ Highly motivated Quality Assurance Engineer with 5+ years of experience and a pa
 - Sharing some tech talks as organizer on <a href="https://www.youtube.com/channel/UC8C9tZY8TMiEtXBFLOsJsbA/featured">Mozilla Chile Channel</a> 🔭
 
 ![lourcastillo's github stats](https://github-readme-stats.vercel.app/api?username=lour-source&show_icons=true&hide=[%22issues%22])
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lour-source&theme=buefy&layout=compact)](https://github.com/lour-source/github-readme-stats)
